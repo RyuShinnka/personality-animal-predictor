@@ -31,7 +31,8 @@
 
 ## 🏗️ プロジェクト構成
 
-animal_classifier_project/
+\`\`\`
+your_project/
 ├── data/
 │   └── animal_personality_dataset.csv
 ├── models/
@@ -44,7 +45,7 @@ animal_classifier_project/
 ├── assets/
 │   └── design.png
 ├── main.py
-
+\`\`\`
 
 ---
 
