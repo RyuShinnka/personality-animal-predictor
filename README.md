@@ -32,7 +32,7 @@
 ## 🏗️ プロジェクト構成
 
 ```
-your_project/
+personality-animal-predictor/
 ├── data/
 │   └── animal_personality_dataset.csv
 ├── models/
