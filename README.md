@@ -31,7 +31,7 @@
 
 ## 🏗️ プロジェクト構成
 
-\`\`\`
+```
 your_project/
 ├── data/
 │   └── animal_personality_dataset.csv
@@ -45,7 +45,7 @@ your_project/
 ├── assets/
 │   └── design.png
 ├── main.py
-\`\`\`
+```
 
 ---
 
